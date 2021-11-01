@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "description": "braingames",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artem Bogdanov",
+            "email": "bogtema@gmail.com"
+        }
+    ],
+    "require": {}
+}
